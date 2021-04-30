@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gmall2020-mock-log-2020-05-10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mock-log/target/gmall2020-mock-log-2020-05-10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

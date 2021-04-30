@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.atguigu.gmall2020:gmall2020-common:2020-05-10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gmall2020-common/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/common/gmall2020-common-2020-05-10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gmall2020-common/gmall2020-common-2020-05-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/common/gmall2020-common-2020-05-10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gmall2020-common/gmall2020-common-2020-05-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
